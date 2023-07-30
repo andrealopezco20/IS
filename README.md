@@ -3,7 +3,7 @@ Estilo de Programación Declarativo:
 En este fragmento de código, estamos utilizando principalmente un enfoque declarativo. No estamos preocupados por los detalles de cómo se implementa el efecto "blur" en los divs o cómo se renderiza el contenido de las páginas. Aquí simplemente estamos declarando cuáles componentes renderizar, y la aplicación se encargará internamente de realizar los cambios y actualizaciones necesarias en la interfaz.
 ![image](https://github.com/andrealopezco20/IS/assets/104209000/e9116b68-0b5b-4b5a-8ca1-293fa02155ab)
 
-2. Auth (Auth.jsx)
+3. Auth (Auth.jsx)
 Estilo de Programación Funcional:
 En el estilo de programación funcional, hemos utilizado componentes funcionales en lugar de clases.
 Los componentes Auth, LogIn y SignUp se han definido como funciones que devuelven elementos JSX.
